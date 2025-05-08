@@ -8,6 +8,7 @@ This project analyzes the discount strategies of Eniac, an e-commerce platform s
 ![Python Badge](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Pandas Badge](https://img.shields.io/badge/Analysis-Pandas-yellowgreen)
 ![Canva Badge](https://img.shields.io/badge/Presentation-Canva-00C4CC?logo=canva&logoColor=white)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
 ## Data Sources
 
