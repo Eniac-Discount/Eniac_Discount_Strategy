@@ -43,7 +43,7 @@ These datasets are combined programmatically within the Jupyter notebook to anal
 
 - Python (Pandas, NumPy) for data manipulation and analysis
 - Jupyter Notebook for an integrated code and report environment
-- Matplotlib and Seaborn for data visualization
+- Seaborn (Matplotlib) for data visualization
 
 ## Repository Contents
 
